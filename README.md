@@ -38,7 +38,7 @@ The application allows an operator to monitor unstable portals between worlds, c
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/asaptolya/riftkeeper.git
 cd portal-lab
 ```
 
@@ -144,7 +144,7 @@ The same worklog is included below for transparency and easier review.
 
 **AI tool:** ChatGPT
 
-**Total development time:** Approximately 8 hours at the current stage.
+**Total development time:** Approximately 9 hours at the current stage.
 
 **Token usage:** Not tracked. The ChatGPT interface used during development does not provide total token usage statistics for the conversation.
 
@@ -485,4 +485,4 @@ If developed as a real product, the next steps would include access-key authenti
 
 ## Live Demo
 
-Deployment link will be added after publication.
+https://riftkeeper-inky.vercel.app/
